@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title-text{
+    text-align:center;
+	font-size:29px;
+    font-weight:650;
+
+}
+
+
+
+.title-text2{
+    text-align:center;
+	font-size:18px;
+	margin-bottom:5px;
+	font-weight:400;
+}
+
+
+.Shopping-card-name{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+
+
+.Product-title{ 
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+   
+}
+
+.Quantity{
+    margin-right: 50px;
+
+}
+
+
+
+.product-name{
+	font-size:24px;
+    font-weight:650;
+	text-transform:uppercase;
+	
+	
+}
+
+
+
+
+
+
+
+
+.product-Shuj1{
+	padding: 20px;
+    display: flex;
+    justify-content: space-between;
+   
+
+}
+.price-and-quantity{
+    display: flex;
+    justify-content: space-between;
+    margin-right:50px;
+}
+.img-info{
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+
+}
+.img-info img{
+    width: 100%;
+    height: 100%;
+}
+
+.pricetype{
+    margin-right: 35px;
+}
+.pricetype p{
+    margin-right: 65px; 
+}
+
+
+
+
+
+.quantity .input{
+    width: 50px;
+    background: ;
+    border: 2px solid gray;
+    outline: none;
+    height: 25px;
+    border-radius: 5px;
+    
+}
+
+
+
+
+
+
+
+.total-price{
+    display: flex;
+    justify-content:flex-end;
+}
+
+.total-price table{
+
+}
+
+.Arrow{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.fas {
+    font-size: 20px;
+    padding: 10px;
+    color:black;
+    border: 1px solid gray;
+}
+
+.containue{
+    color:blue;
+    border: 1px solid white;
+}
+
+#Checkout{
+    background-color: blue;
+    font-size: 20px;
+    padding: 10px;
+    
+    border: 2px solid gray;
+}
+
+
+#Checkout:hover{
+    background-color: blue;
+    color:cornsilk;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
